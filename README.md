@@ -171,7 +171,7 @@ A short demonstration video is provided showing:
 * Proteus simulation setup
 * Live JSON output on the virtual terminal
 
-(Video link to be added here)
+https://youtu.be/X16jDGoxdO0
 
 ---
 
